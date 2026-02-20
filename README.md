@@ -2,8 +2,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Feature%20Extraction%20%7C%20Fine--Tuning-purple?style=for-the-badge)
+![Models](https://img.shields.io/badge/Models-ResNet50%20%7C%20MobileNetV2%20%7C%20VGG16%20%7C%20DenseNet121-orange?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost%20%7C%20Random%20Forest-green?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-PlantVillage%20%7C%20PlantDoc-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?style=for-the-badge&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-blue?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-4C72B0?style=for-the-badge)
+
 
 
 **A comprehensive machine learning pipeline for predicting stroke risk using healthcare data**
