@@ -252,6 +252,4 @@ weighted avg       0.89      0.89      0.89      1945
 
 **Made with ❤️ for healthcare and AI**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Yashpurbhe123.stroke-prediction-ml)
-
 </div>
